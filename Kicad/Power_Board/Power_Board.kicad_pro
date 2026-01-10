@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kicad.kicad_pro",
+    "filename": "Power_Board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -610,7 +610,7 @@
   },
   "sheets": [
     [
-      "c31a4ead-f9da-4d09-884a-107b77b048b1",
+      "58e41d84-7531-48ee-9ca8-bd5b3cfb53b6",
       "Root"
     ]
   ],
