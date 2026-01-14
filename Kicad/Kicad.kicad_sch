@@ -3915,6 +3915,16 @@
 		)
 		(uuid "096805b6-8346-4601-ad33-9b5900e46f83")
 	)
+	(label "DC_Output_2b"
+		(at 234.95 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "106a61a0-0b4c-4a1f-ae4c-08c641fd78d7")
+	)
 	(label "IO22"
 		(at 86.36 121.92 0)
 		(effects
@@ -4155,16 +4165,6 @@
 		)
 		(uuid "7f7bdf9d-d9b5-4fb0-9193-35d424e3051f")
 	)
-	(label "DC_Output_2b"
-		(at 234.95 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "802f2cfd-786f-4ad1-b5de-80306f77e652")
-	)
 	(label "3v3"
 		(at 198.12 77.47 0)
 		(effects
@@ -4244,16 +4244,6 @@
 			(justify left bottom)
 		)
 		(uuid "a0509725-41e5-4807-b0d0-76fbe91cc893")
-	)
-	(label "DC_Output_2a"
-		(at 234.95 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b0e480d0-3c35-4fe2-86fd-94c0ed624b9e")
 	)
 	(label "IO5"
 		(at 176.53 110.49 0)
@@ -4344,6 +4334,16 @@
 			(justify left bottom)
 		)
 		(uuid "e0bd3ff6-ce43-47c3-8e4b-3587db983438")
+	)
+	(label "DC_Output_2a"
+		(at 234.95 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e80fb9f6-2ab8-4435-916e-d80b40828480")
 	)
 	(label "3v3"
 		(at 87.63 43.18 0)
@@ -5380,7 +5380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_RND:TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal"
 			(at 252.73 26.67 0)
 			(effects
 				(font
@@ -6151,7 +6151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_RND:TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_RND:TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal"
 			(at 252.73 33.02 0)
 			(effects
 				(font
@@ -6624,7 +6624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_RND:TerminalBlock_RND_205-00003_1x04_P5.00mm_Horizontal"
 			(at 252.73 43.18 0)
 			(effects
 				(font

@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U5";"Vishay_MINICAST-3Pin";1;"TSOP382xx";;;
+2;"C2,C3";"C_0603_1608Metric";2;"0.1u";;;
+3;"R1";"R_0603_1608Metric";1;"10k";;;
+4;"U3";"ESP32_30pin";1;"~";;;
+5;"C5,C1";"C_0603_1608Metric";2;"10u";;;
+6;"A1";"Pololu_Breakout-16_15.2x20.3mm";1;"Pololu_Breakout_A4988";;;
+7;"C4";"C_0603_1608Metric";1;"100u";;;
+8;"C7";"C_0603_1608Metric";1;"2.2u";;;
+9;"J4,J5";"PinHeader_1x04_P2.54mm_Vertical";2;"Conn_01x04_Pin";;;
+10;"C6";"C_0603_1608Metric";1;"0.01u";;;
+11;"J2,J1";"TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal";2;"Screw_Terminal_01x02";;;
+12;"U2";"TSSOP-16_4.4x5mm_P0.65mm";1;"DRV8833PW";;;
+13;"J3";"TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal";1;"Screw_Terminal_01x04";;;

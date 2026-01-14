@@ -502,7 +502,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../CAD/Boards/Power_Board_For_Sim.step",
       "svg": "",
       "vrml": ""
     },
