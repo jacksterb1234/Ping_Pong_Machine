@@ -1,11 +1,12 @@
 Comment,Designator,Footprint,LCSC,Quantity
-100nF,"C2,C3",C_0603,C14663,2
-10kΩ,R1,R_0603,C25804,1
-10nF,C6,C_0603,C57112,1
-10uF,"C1,C5",C_0603,C19702,2
-2.2uF,C7,C_0603,C23630,1
-Pololu_Breakout_A4988,A1,Pololu_Breakout-16_15.2x20.3mm,,1
+100nF,"C2,C3",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C14663,2
+10kΩ,R1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C25804,1
+10nF,C6,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C57112,1
+10uF,"C1,C5",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C19702,2
+2.2uF,C7,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C23630,1
 TSOP382xx,U5,Vishay_MINICAST-3Pin,,1
+~,U3,ESP32_30pin,,1
+Pololu_Breakout_A4988,A1,Pololu_Breakout-16_15.2x20.3mm,,1
 100u,C4,C_Radial_D8.0mm_H11.5mm_P3.50mm,,1
 Conn_01x04_Pin,J4,PinHeader_1x04_P2.54mm_Vertical,,1
 Screw_Terminal_01x02,J2,TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal,,1
@@ -13,4 +14,3 @@ DRV8833PW,U2,TSSOP-16_4.4x5mm_P0.65mm,,1
 Screw_Terminal_01x02,J1,TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal,,1
 Screw_Terminal_01x04,J3,TerminalBlock_RND_205-00003_1x04_P5.00mm_Horizontal,,1
 Conn_01x04_Pin,J5,PinHeader_1x04_P2.54mm_Vertical,,1
-~,U3,ESP32_30pin,,1

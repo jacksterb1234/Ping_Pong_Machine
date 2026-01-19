@@ -5775,7 +5775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 163.068 83.82 90)
 			(effects
 				(font
@@ -5959,7 +5959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 129.032 132.08 90)
 			(effects
 				(font
@@ -6157,7 +6157,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 169.418 83.82 90)
 			(effects
 				(font
@@ -6357,7 +6357,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 81.788 90.17 90)
 			(effects
 				(font
@@ -6554,7 +6554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 215.138 63.5 90)
 			(effects
 				(font
@@ -7674,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:R_0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 140.97 120.142 90)
 			(effects
 				(font
@@ -7897,7 +7897,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 72.898 90.17 90)
 			(effects
 				(font
