@@ -790,7 +790,7 @@
 			)
 		)
 		(property "Value" "10kΩ"
-			(at 0 1.65 270)
+			(at 0 -1.164 270)
 			(layer "F.Fab")
 			(uuid "05547417-a533-4698-909b-d6f5b03c2712")
 			(effects
