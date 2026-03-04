@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+A1,Pololu_Breakout_A4988,Pololu_Breakout-16_15.2x20.3mm,90.85,-79.81,180.0,top
+C1,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,48.5,-70.0,90.0,top
+C2,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,51.435,-70.0,90.0,top
+C3,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,82.55,-104.013,90.0,top
+C4,100u,C_Radial_D8.0mm_H11.5mm_P3.50mm,91.5,-64.75,90.0,top
+C5,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,89.5,-98.5,0.0,top
+C6,10nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,89.5,-100.6,0.0,top
+C7,2.2uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,84.5,-98.78,90.0,top
+J1,Screw_Terminal_01x02,TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal,106.3675,-108.0,90.0,top
+J2,Screw_Terminal_01x02,TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal,106.5,-96.5,90.0,top
+J3,Screw_Terminal_01x04,TerminalBlock_RND_205-00003_1x04_P5.00mm_Horizontal,109.0,-78.5,90.0,top
+J4,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,48.0,-100.73,0.0,top
+J5,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,45.72,-65.405,180.0,top
+R1,10kΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,84.836,-104.013,-90.0,top
+U2,DRV8833PW,TSSOP-16_4.4x5mm_P0.65mm,87.5,-94.0,180.0,top
+U3,~,ESP32_30pin,67.3,-86.992277,90.0,top
+U5,TSOP382xx,Vishay_MINICAST-3Pin,48.0,-89.54,-90.0,top

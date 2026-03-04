@@ -237,8 +237,8 @@ void handleBleCommand(const String &json) {
 
 class CommandCallback : public BLECharacteristicCallbacks {
   void onWrite(BLECharacteristic *c) override {
-    std::string value = c->getValue();
-    if (value.empty()) return;
+    String value = c->getValue();
+    if (value.isEmpty()) return;
     String json(value.c_str());
     handleBleCommand(json);
   }
